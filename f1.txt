@@ -1,2 +1,3 @@
 this is file1 version on local repository.
 anthoer is file2 is added
+file1 is modified at git_home dir
